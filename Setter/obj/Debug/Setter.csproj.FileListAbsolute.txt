@@ -1,0 +1,14 @@
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\bin\Debug\Setter.exe.config
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\bin\Debug\Setter.exe
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\bin\Debug\Setter.pdb
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.csprojResolveAssemblyReference.cache
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Form1.resources
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Properties.Resources.resources
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.csproj.GenerateResource.Cache
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.exe
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.pdb
+c:\users\ethical\documents\visual studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Dashboard.resources
+C:\Users\Ethical\Documents\Visual Studio 2015\Projects\Setter\Setter\obj\Debug\Setter.customer_type.resources
+C:\Users\Ethical\Documents\Visual Studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Bill.resources
+C:\Users\Ethical\Documents\Visual Studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Customer.resources
+C:\Users\Ethical\Documents\Visual Studio 2015\Projects\Setter\Setter\obj\Debug\Setter.Item.resources
